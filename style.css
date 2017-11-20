@@ -22,6 +22,18 @@
 	display: inline-block;
 }
 
+.circle2 {
+    background: orange;
+    border-radius: 200px;
+    color: white;
+    height: 100px;
+    font-weight: bold;
+    width: 100px;
+    display: table;
+    margin: 20px auto;
+	display: inline-block;
+}
+
 .circle p {
     vertical-align: middle;
     display: table-cell;
